@@ -1,0 +1,11 @@
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.exe.config
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.exe
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.pdb
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.addConference.resources
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.Form1.resources
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.Properties.Resources.resources
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csproj.GenerateResource.Cache
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.exe
+C:\Users\dimit\source\repos\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.pdb
