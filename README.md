@@ -1,2 +1,2 @@
-# MajorProjects
-Big dreams
+# Big Dreams
+Major Projects
